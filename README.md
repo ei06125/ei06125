@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋  Hi | Olá | こんにちは
 
 - 🔭 I’m currently working on Yet Another Game ENgine (YAGEN).
 - 🌱 I’m currently learning about C++ 20.
